@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator1.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator1.util.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-classes-kotlin.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator_Kt.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator_Kt.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
